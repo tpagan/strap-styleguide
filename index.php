@@ -1,5 +1,5 @@
  <?php include_once('functions.php'); ?>
- <?php $project_name = "Project"; ?>
+ <?php $project_name = "Travel Click Strap Style Guide"; ?>
 <!DOCTYPE html>
 
 <head>

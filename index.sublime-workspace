@@ -1,0 +1,182 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tpagan/Documents/Sites/TC-Style/app/view1/view1.js",
+		"/C/Users/tpagan/Documents/Sites/TC-Style/app/accordion/accordion.js",
+		"/C/Users/tpagan/Documents/Sites/TC-Style/app/accordion/accordion.html",
+		"/C/Users/tpagan/Documents/Sites/TC-Style/app/view1/view1.html",
+		"/C/Users/tpagan/Documents/Sites/TC-Style/app/app.js",
+		"/C/Users/tpagan/Documents/Sites/TC-Style/app/app.css",
+		"/C/Users/tpagan/Documents/Sites/TC-Style/app/index.html",
+		"/C/Users/tpagan/Documents/Sites/TC-Ng-UI-Bootstrap/node_modules/angular-ui-bootstrap/bootstrap-gh-pages/index.html",
+		"/C/Users/tpagan/Documents/Axure/HTML/Return-to-Book/start.html",
+		"/C/Users/tpagan/Documents/Sites/TC-Ng-UI-Bootstrap/node_modules/angular-ui-bootstrap/hello.js",
+		"/C/Users/tpagan/Documents/Sites/TC-Ng-UI-Bootstrap/node_modules/angular-ui-bootstrap/hello.js.txt",
+		"/C/Users/tpagan/OneDrive - TravelClick/Resources/Metro-UI-CSS-master/docs/templates/navigation.html",
+		"/C/Users/tpagan/OneDrive - TravelClick/Resources/Metro-UI-CSS-master/docs/templates/admin-sidebar-appbar.html",
+		"/C/Users/tpagan/OneDrive - TravelClick/Resources/Metro-UI-CSS-master/build/index.html",
+		"/C/Users/tpagan/OneDrive - TravelClick/Resources/Metro-UI-CSS-master/docs/templates/template.html",
+		"/C/Users/tpagan/OneDrive - TravelClick/TravelClick Assets/TravelClick Angular UI Bootstrap/misc/demo/index.html",
+		"/C/Users/tpagan/OneDrive - TravelClick/TravelClick Assets/TravelClick Angular UI Bootstrap/index.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
